@@ -13,4 +13,4 @@ linguagem de programação **PHP** e o banco de dados **MySql**.
 
 **Cadastro de movimentação**
 
-![crud-php-mvc-dao](imagens/movimentacao.png)
+![crud-php-mvc-dao](img/movimentacao.png)
