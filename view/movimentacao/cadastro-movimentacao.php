@@ -99,7 +99,7 @@ if ($acao != "") {
 
         <div class="container">
             <div class="row">
-                <form class="table table-striped" method="POST" action="http://localhost/ProvaPHPIST/view/movimentacao/cadastro-movimentacao.php">
+                <form class="table table-striped" method="POST" action="http://localhost/Crud-PHP-Dao-MVC/view/movimentacao/cadastro-movimentacao.php">
                     <input type="hidden" required name="acao" id="acao" value="incluir" />
 
                     <div class="form-group">

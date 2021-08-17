@@ -111,13 +111,13 @@ if ($acao != "") {
 
         <div class="container">
             <div class="row">
-                <form class="table table-striped" method="POST" action="http://localhost/ProvaPHPIST/view/contas/cadastro-contas.php">
+                <form class="table table-striped" method="POST" action="http://localhost/Crud-PHP-Dao-MVC/view/contas/cadastro-contas.php">
 
                     <input type="hidden" required name="acao" id="acao" value="<?php echo ($codigo > 0) ? "alterar" : "incluir" ?>" />
                     <input type="hidden"  name="id" id="id" value="<?= $conta->getId() ?>" />                           
 
                     <div class="form-group">
-                        <label class="control-label" ><a style="text-decoration: underline" href="http://localhost/ProvaPHPIST">add pessoa</a></label>  
+                        <label class="control-label" ><a style="text-decoration: underline" href="http://localhost/Crud-PHP-Dao-MVC">add pessoa</a></label>  
                         <select   class="form-control select2"  id="pessoa_id" name="pessoa_id">
                             <option value="0">[ SELECIONE UMA PESSOA ]</option>
                             <?php foreach ($pessoas as $p): ?>

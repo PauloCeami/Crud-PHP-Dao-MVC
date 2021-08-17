@@ -76,7 +76,7 @@ if ($acao != "") {
 
         <div class="container">
             <div class="row">
-                <form class="table table-striped" method="POST" action="http://localhost/ProvaPHPIST/index.php">
+                <form class="table table-striped" method="POST" action="http://localhost/Crud-PHP-Dao-MVC/index.php">
 
                     <input type="hidden" required name="acao" id="acao" value="<?php echo ($codigo > 0) ? "alterar" : "incluir" ?>" />
                     <input type="hidden"  name="id" id="id" value="<?= $pessoa->getId() ?>" />                           
