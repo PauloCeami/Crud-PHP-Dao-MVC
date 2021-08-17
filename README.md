@@ -1,17 +1,16 @@
 # SISTEMA EM PHP FINANCEIRO PARA ESTUDO
-SISTEMA EM PHP 7 USANDO :
-MVC, PADRAO DAO PDO E MYSQL 
+SISTEMA EM PHP 7 USANDO : BOOSTRAP, MVC, PADRAO DAO PDO E MYSQL 
 
 
 
-**Cadastro de pessoa**
+**CADASTRO DE PESSOAS**
 
 ![crud-php-mvc-dao](img/pessoa.png)
 
-**Cadastro de conta**
+**CADASTRO DE CONTAS**
 
 ![crud-php-mvc-dao](img/conta.png)
 
-**Cadastro de movimentação**
+**CADASTRO DAS MOVIMENTAÇÕES FINANCEIRAS**
 
 ![crud-php-mvc-dao](img/movimentacao.png)
