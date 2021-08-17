@@ -1,6 +1,7 @@
 # SISTEMA EM PHP FINANCEIRO PARA ESTUDO
-SISTEMA PHP 7 MVC COM MYSQL - SISTEMA FINANCEIRO PARA ESTUDO
-linguagem de programação **PHP** e o banco de dados **MySql**.
+SISTEMA EM PHP 7 USANDO :
+MVC, PADRAO DAO PDO E MYSQL 
+
 
 
 **Cadastro de pessoa**
